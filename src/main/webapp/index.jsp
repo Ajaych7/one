@@ -15,7 +15,7 @@
         <nav>
             <ul>
                 <li><a href="#mobiles">Mobiles</a></li>
-                <li><a href="#laptops">Laptops</a></li>
+                <li><a href="#laptops">Laptop shop</a></li>
                 <li><a href="#clothes">Clothes</a></li>
                 <li><a href="#cart"><em class="fas fa-shopping-cart"></em> Cart <span id="cart-count">0</span></a></li>
             </ul>
@@ -31,7 +31,7 @@
         </section>
 
         <section id="laptops" class="product-section">
-            <h2>Laptops</h2>
+            <h2>Laptop shop</h2>
             <div class="product-grid" id="laptop-products">
                 <!-- Laptop products will be inserted here by JavaScript -->
             </div>
@@ -55,7 +55,7 @@
                 <h3>Quick Links</h3>
                 <ul>
                     <li><a href="#mobiles">Mobiles</a></li>
-                    <li><a href="#laptops">Laptops</a></li>
+                    <li><a href="#laptops">Laptop shop</a></li>
                     <li><a href="#clothes">Clothes</a></li>
                 </ul>
             </div>
